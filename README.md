@@ -3,3 +3,5 @@
 
 
 [nlp历史及bert原理](https://blog.csdn.net/jiaowoshouzi/article/details/89073944)
+
+[篇章级关系抽取总结](https://blog.csdn.net/eagleuniversityeye/article/details/107455768)
