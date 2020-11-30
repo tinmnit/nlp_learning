@@ -13,3 +13,5 @@ Is normalization indispensable for training deep neural network
 Feature Importance Ranking for Deep Learning
 
 [NLP巨人的肩膀（抽空读一读）](https://zhuanlan.zhihu.com/p/50443871)
+
+[贝叶斯思想](https://blog.csdn.net/u012845311/article/details/73549585)
