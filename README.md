@@ -17,3 +17,6 @@
 A Neural Probabilistic Language Model
 
 [argparse](https://zhuanlan.zhihu.com/p/56922793)
+
+[知识图谱发展报告](http://cips-upload.bj.bcebos.com/KGDevReport2018.pdf) 
+[中文信息处理发展报告](http://cips-upload.bj.bcebos.com/cips2016.pdf)
