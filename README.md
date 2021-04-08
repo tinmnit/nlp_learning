@@ -31,3 +31,5 @@ A Neural Probabilistic Language Model
 cs224
 
 language models are knowledge graph
+
+[西多士nlp（讲解清晰）](https://www.cnblogs.com/sandwichnlp/)
