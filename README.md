@@ -33,3 +33,5 @@ cs224
 language models are knowledge graph
 
 [西多士nlp（讲解清晰）](https://www.cnblogs.com/sandwichnlp/)
+
+[清华nlp阅读材料（各个领域经典论文）](https://github.com/thunlp/NLP-THU)
