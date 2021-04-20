@@ -35,3 +35,7 @@ language models are knowledge graph
 [西多士nlp（讲解清晰）](https://www.cnblogs.com/sandwichnlp/)
 
 [清华nlp阅读材料（各个领域经典论文）](https://github.com/thunlp/NLP-THU)
+
+[半监督关系抽取](http://www.davidsbatista.net/assets/documents/publications/breds-emnlp_15.pdf)
+
+[半监督关系抽取](https://www.aclweb.org/anthology/N18-1003.pdf)
