@@ -39,3 +39,6 @@ language models are knowledge graph
 [半监督关系抽取](http://www.davidsbatista.net/assets/documents/publications/breds-emnlp_15.pdf)
 
 [半监督关系抽取](https://www.aclweb.org/anthology/N18-1003.pdf)
+
+[多任务学习](https://mp.weixin.qq.com/s/mL9GjnTK1p4MtdI9Bx1huw)
+
