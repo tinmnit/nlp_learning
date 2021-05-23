@@ -42,3 +42,4 @@ language models are knowledge graph
 
 [多任务学习](https://mp.weixin.qq.com/s/mL9GjnTK1p4MtdI9Bx1huw)
 
+[BERT和word2vec，讲得贼清楚](https://mccormickml.com/tutorials/)
